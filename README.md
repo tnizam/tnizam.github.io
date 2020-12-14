@@ -1,1 +1,0 @@
-# tnizam.github.io
