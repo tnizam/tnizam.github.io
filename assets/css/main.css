@@ -2033,7 +2033,7 @@ input, select, textarea {
 				}
 
 		.box.style3 {
-			background: #3b264ee6;
+			background: rgba(59, 38, 78, 0.90);
 			padding: 3em;
 			color: white;
 		}
